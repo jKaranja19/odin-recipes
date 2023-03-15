@@ -1,1 +1,1 @@
-# odin-recipes
+This is a sample recipe website made using HTML. It will be modified later. It will be used as a review of what I have gone through.
